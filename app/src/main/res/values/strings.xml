@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationApp</string>
+    <string name="charging_text_body">Checkout what is happening here</string>
+    <string name="notif_channel_id">push_notification_app_id</string>
+    <string name="notification_channel_name">notification_channel_name</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
